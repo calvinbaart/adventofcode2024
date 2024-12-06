@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/lodash": "^4.17.13",
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
